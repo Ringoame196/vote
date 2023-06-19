@@ -1,0 +1,7 @@
+name: vote
+version: '${project.version}'
+main: com.github.ringoame196.vote.Vote
+commands:
+  vote:
+    description: 投票
+    usage: /vote (<edit>) <タイトル> <選択肢> ● ● ●
